@@ -1,2 +1,2 @@
 Title edited by TEAMMATE on main
-Creating MC from remote
+Creating merge conflict and resolving
